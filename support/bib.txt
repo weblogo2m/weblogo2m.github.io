@@ -1,0 +1,6 @@
+@article{su2018weblogo,
+  title={Weblogo-2m: Scalable logo detection by deep learning from the web},
+  author={Su, Hang and Gong, Shaogang and Zhu, Xiatian and others},
+  year={2018},
+  publisher={IEEE}
+}
